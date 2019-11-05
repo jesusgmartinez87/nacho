@@ -1,0 +1,1 @@
+The operating system is one of the most important parts of the computer. It is where the user interface resides, and also how the computer is going to split it its resources. It controls what we see and how we interact with the computer.
